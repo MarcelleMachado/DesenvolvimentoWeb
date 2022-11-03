@@ -1,0 +1,15 @@
+
+.titulo {
+    height: 10%;
+    width: 70%;
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Inter, Avenir, Helvetica, Arial, sans-serif;;
+    font-size: 300%;
+    color: white;
+}
